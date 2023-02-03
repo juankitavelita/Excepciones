@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cec9135-05a2-48f5-a721-f2dfe2aadbc7" name="Changes" comment="Fin de actividad">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polimorfismes/Coche.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polimorfismes/Polimorfismes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polimorfismes/Vehiculo.java" afterDir="false" />
+    <list default="true" id="1cec9135-05a2-48f5-a721-f2dfe2aadbc7" name="Changes" comment="Continuación">
+      <change afterPath="$PROJECT_DIR$/src/Polimorfismes/Camion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polimorfismes/DemasiadoRapidoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polimorfismes/Remolque.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Polimorfismes/Coche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polimorfismes/Coche.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Polimorfismes/Polimorfismes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polimorfismes/Polimorfismes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Polimorfismes/Vehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polimorfismes/Vehiculo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,20 +37,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/alumne-DAM/IdeaProjects/Electrodomestico"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alumne-DAM/IdeaProjects/Excepciones&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Polimorfismes">
     <configuration name="AdivinaElNumero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AdivinaElNumero" />
       <module name="Excepciones" />
@@ -57,8 +58,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Polimorfismes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polimorfismes.Polimorfismes" />
+      <module name="Excepciones" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Polimorfismes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Polimorfismes" />
         <item itemvalue="Application.AdivinaElNumero" />
       </list>
     </recent_temporary>
@@ -79,11 +94,19 @@
       <option name="project" value="LOCAL" />
       <updated>1674839961564</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Continuación">
+      <created>1674847811719</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674847811719</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fin de actividad" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fin de actividad" />
+    <MESSAGE value="Continuación" />
+    <option name="LAST_COMMIT_MESSAGE" value="Continuación" />
   </component>
 </project>
